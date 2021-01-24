@@ -70,5 +70,5 @@ src="https://img.shields.io/github/followers/zealpatel1990?style=social" alt="cr
 
 <h3>If you like what I do, maybe consider buying me a coffee 🥺👉👈</h3>
 
-<a href="paypal.me/zealp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://paypal.me/zealp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
