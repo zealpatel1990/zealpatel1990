@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/zealpatel1990?style=social" alt="cr
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center">   
    <img src="https://github-profile-trophy.vercel.app/?username=zealpatel1990&column=4&margin-w=10&margin-h=10"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zealpatel1990&langs_count=4" alt="dhairyachandra"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zealpatel1990&langs_count=6" alt="zealpatell1990"/> 
    
 
 </p>
