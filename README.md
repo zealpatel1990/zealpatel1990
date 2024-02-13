@@ -25,14 +25,18 @@ src="https://img.shields.io/github/followers/zealpatel1990?style=social" alt="cr
 
 - 📫 You can reach me **[here](mailto:zealpatel1990+github@gmail.com)**
 
-
-<h2 align="center">🏆 Trophies</h2></a>
-<p align="center">   
-   <img src="https://github-profile-trophy.vercel.app/?username=zealpatel1990&column=4&margin-w=10&margin-h=10"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zealpatel1990&langs_count=4" alt="zealpatell1990"/> 
-   
-
+<h2 align="center">Skills </h2></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react,redux,opencv,html,git,postgres,docker,ts,js,vscode,raspberrypi,kubernetes,postman,selenium" />
+  </a>
 </p>
+<h2 align="center">🏆 Trophies</h2></a>
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=zealpatel1990&column=4&margin-w=10&margin-h=10"/> 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zealpatel1990&theme=default">
+</p>
+
 
 <div align="center">
    <h2> Connect with me </h2>
