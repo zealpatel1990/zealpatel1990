@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/zealpatel1990?style=social" alt="cr
 <h2 align="center">Skills </h2></a>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,redux,opencv,html,git,postgres,docker,ts,js,vscode,raspberrypi,kubernetes,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,react,html,git,postgres,docker,ts,js,vscode,raspberrypi,opencv,redux,kubernetes,postman,selenium" />
   </a>
 </p>
 <h2 align="center">🏆 Trophies</h2></a>
